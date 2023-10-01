@@ -1,0 +1,16 @@
+# implementation deps
+ujson
+numpy
+numba
+scipy
+pandas
+polars
+
+# plot deps
+# pandas
+seaborn # plotting
+uncertainties # formatting std dev
+jupyterlab
+sh
+tqdm
+ipywidgets  # for tqdm.notebook
