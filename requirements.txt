@@ -11,6 +11,5 @@ polars
 seaborn # plotting
 uncertainties # formatting std dev
 jupyterlab
-sh
 tqdm
 ipywidgets  # for tqdm.notebook
