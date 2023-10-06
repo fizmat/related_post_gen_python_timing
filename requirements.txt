@@ -1,5 +1,6 @@
 # implementation deps
 ujson
+orjson
 numpy
 numba
 scipy
